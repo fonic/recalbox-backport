@@ -18,16 +18,16 @@
 
 	<view name="system, basic, detailed">
 		<image name="band1" extra="true">
-			<color>F6DD08</color>
+			<color>C1B544</color>
 		</image>
 		<image name="band2" extra="true">
-			<color>800000</color>
+			<color>6EAE97</color>
 		</image>
 		<image name="band3" extra="true">
-			<color>FF0000</color>
+			<color>364792</color>
 		</image>
 		<image name="band4" extra="true">
-			<color>4C504E</color>
+			<color>851740</color>
 		</image>
 	</view>
 </theme>

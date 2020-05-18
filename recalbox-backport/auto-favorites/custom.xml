@@ -3,10 +3,10 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Find all your favorites games in a single place.</text>
+			<text>Find all your favorites games in a single place!</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Every game marked as favorite will be put here.</text>
+			<text>All games marked as favorite will be listed here.</text>
 		</text>
 		<text name="info3" extra="true">
 			<text></text>

@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Find all your multiplayer games in a single system.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Add all the roms you want, scrape them and</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>they'll show up here. Enjoy with family and friends!</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>F3F1A5</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>679EA3</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>8A9667</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>93627F</color>
+		</image>
+	</view>
+</theme>

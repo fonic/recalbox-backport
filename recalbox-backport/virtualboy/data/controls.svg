@@ -12,7 +12,7 @@
    version="1.1"
    id="svg77"
    sodipodi:docname="controls.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata81">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,7 +35,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1015"
      id="namedview79"
      showgrid="false"
      fit-margin-top="0"
@@ -45,8 +45,8 @@
      inkscape:zoom="1.668772"
      inkscape:cx="124.64261"
      inkscape:cy="203.08768"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg77" />
   <defs
@@ -388,7 +388,7 @@
   </g>
   <g
      id="g5956"
-     transform="matrix(0.31783348,0,0,0.31783348,266.51782,9.0292097)">
+     transform="matrix(0.31783348,0,0,0.31783348,266.51782,9.0292094)">
     <g
        id="g1566">
       <rect

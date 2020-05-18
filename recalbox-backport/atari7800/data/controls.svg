@@ -12,7 +12,7 @@
    version="1.1"
    id="svg29"
    sodipodi:docname="controls.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    inkscape:export-filename="D:\temp2\recalbox-next\atari7800\data\eu\controller.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1015"
      id="namedview31"
      showgrid="false"
      fit-margin-top="0"
@@ -48,8 +48,8 @@
      inkscape:zoom="1.668772"
      inkscape:cx="304.14238"
      inkscape:cy="179.76765"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg29" />
   <defs
@@ -135,7 +135,7 @@
   </g>
   <g
      id="g5956"
-     transform="matrix(0.31783348,0,0,0.31783348,274.89553,47.09598)">
+     transform="matrix(0.31783348,0,0,0.31783348,274.89553,47.095982)">
     <rect
        ry="11.888107"
        y="556.34845"
@@ -211,7 +211,7 @@
   </g>
   <g
      id="g5972"
-     transform="matrix(0.31783348,0,0,0.31783348,57.849945,50.218911)">
+     transform="matrix(0.31783348,0,0,0.31783348,57.849944,50.218913)">
     <rect
        ry="11.888107"
        y="546.52277"
@@ -287,7 +287,7 @@
   </g>
   <g
      id="g5898"
-     transform="matrix(0.31783348,0,0,0.31783348,142.25393,35.857411)">
+     transform="matrix(0.31783348,0,0,0.31783348,142.25393,35.857413)">
     <rect
        ry="11.844472"
        y="1.2418511"
@@ -416,7 +416,7 @@
   </g>
   <path
      style="fill:#434547;fill-opacity:1;stroke:#434547;stroke-width:1.11349654px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 142.27641,58.192654 -74.300552,0.0676"
+     d="m 142.27641,58.192656 -74.300553,0.0676"
      id="path1076-2"
      inkscape:connector-curvature="0" />
   <path
@@ -433,7 +433,7 @@
      style="opacity:1;fill:#434547;fill-opacity:1;stroke:none"
      id="path1078"
      cx="68.912941"
-     cy="58.264694"
+     cy="58.264698"
      rx="2.452877"
      ry="2.4002841" />
   <ellipse

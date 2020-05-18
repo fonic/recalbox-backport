@@ -48,4 +48,20 @@
 			<color>7EAA66</color>
 		</image>
 	</view>
+
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true" region="jp">
+			<color>C1272A</color>
+		</image>
+		<image name="band2" extra="true" region="jp">
+			<color>651966</color>
+		</image>
+		<image name="band3" extra="true" region="jp">
+			<color>1C267D</color>
+		</image>
+		<image name="band4" extra="true" region="jp">
+			<color>0B562F</color>
+		</image>
+	</view>
+
 </theme>

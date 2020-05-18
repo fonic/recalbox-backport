@@ -13,7 +13,7 @@
    sodipodi:docname="controls.svg"
    width="449.0235"
    height="260.55432"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata84">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,7 +71,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1015"
      id="namedview80"
      showgrid="false"
      fit-margin-top="0"
@@ -80,14 +80,14 @@
      fit-margin-bottom="0"
      inkscape:zoom="1.1799999"
      inkscape:cx="166.44986"
-     inkscape:cy="190.83816"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cy="190.83815"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg78" />
   <g
      id="g929"
-     transform="matrix(0,-2.187203,2.187203,0,-1.0732435e-8,205.70144)">
+     transform="matrix(0,-2.187203,2.187203,0,-1.0732432e-8,205.70144)">
     <path
        id="path2"
        d="m 4.3587627,199.12826 c -1.925979,0 -3.48701842,-1.56104 -3.48701842,-3.48702 V 4.3587643 c 0,-1.92577 1.56103942,-3.48702002 3.48701842,-3.48702002 H 64.221978 c 1.925774,0 3.487019,1.56125002 3.487019,3.48702002 V 195.64124 c 0,1.92598 -1.561245,3.48702 -3.487019,3.48702 z"
