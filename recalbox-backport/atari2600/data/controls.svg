@@ -11,7 +11,7 @@
    version="1.1"
    id="svg46"
    sodipodi:docname="controls.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    inkscape:export-filename="D:\temp2\recalbox-next\atari2600\data\controller.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,14 +50,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1015"
      id="namedview48"
      showgrid="false"
      inkscape:zoom="1.7946768"
      inkscape:cx="292.28341"
      inkscape:cy="80.43809"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg46"
      fit-margin-top="0"
@@ -397,7 +397,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="fill:#434547;fill-opacity:1;stroke:#434547;stroke-width:1.06396508px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 146.77758,34.992682 -67.718023,0.06772"
+     d="m 146.77758,34.992682 -67.718018,0.06772"
      id="path1076-2-9"
      inkscape:connector-curvature="0" />
 </svg>

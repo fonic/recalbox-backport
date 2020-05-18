@@ -6,7 +6,7 @@
 			<text>Want to pick your game up where you left off?</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Every recently played game will be put here.</text>
+			<text>All recently played games will be listed here.</text>
 		</text>
 		<text name="info3" extra="true">
 			<text></text>
@@ -18,16 +18,16 @@
 
 	<view name="system, basic, detailed">
 		<image name="band1" extra="true">
-			<color>F6DD08</color>
+			<color>AF774D</color>
 		</image>
 		<image name="band2" extra="true">
-			<color>800000</color>
+			<color>96562B</color>
 		</image>
 		<image name="band3" extra="true">
-			<color>FF0000</color>
+			<color>969BC7</color>
 		</image>
 		<image name="band4" extra="true">
-			<color>4C504E</color>
+			<color>3678A6</color>
 		</image>
 	</view>
 </theme>

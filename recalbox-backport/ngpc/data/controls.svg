@@ -12,7 +12,7 @@
    version="1.1"
    id="svg63"
    sodipodi:docname="controls.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata67">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,7 +35,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1015"
      id="namedview65"
      showgrid="false"
      fit-margin-top="0"
@@ -45,8 +45,8 @@
      inkscape:zoom="1.78"
      inkscape:cx="282.63355"
      inkscape:cy="116.85868"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg63" />
   <defs
@@ -217,7 +217,7 @@
   </g>
   <g
      id="g5956"
-     transform="matrix(0.31783348,0,0,0.31783348,207.25287,-88.794112)">
+     transform="matrix(0.31783348,0,0,0.31783348,207.25287,-88.794108)">
     <rect
        ry="11.888107"
        y="556.34845"
@@ -293,7 +293,7 @@
   </g>
   <g
      id="g5972"
-     transform="matrix(0.31783348,0,0,0.31783348,218.94083,-21.373197)">
+     transform="matrix(0.31783348,0,0,0.31783348,218.94083,-21.373193)">
     <rect
        ry="11.888107"
        y="546.52277"
@@ -586,17 +586,17 @@
      style="opacity:1;fill:#434547;fill-opacity:1;stroke:none"
      id="path1078-3"
      cx="380.85199"
-     cy="28.682512"
+     cy="28.682516"
      rx="2.452877"
      ry="2.4002841" />
   <path
      style="fill:#434547;fill-opacity:1;stroke:#434547;stroke-width:1.12615561px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 377.64015,75.999365 0.0676,75.985605"
+     d="m 377.64015,75.999369 0.0676,75.985601"
      id="path1076"
      inkscape:connector-curvature="0" />
   <path
      style="fill:#434547;fill-opacity:1;stroke:#434547;stroke-width:0.99976468px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 65.798021,92.685475 0.0678,59.695175"
+     d="m 65.798021,92.685479 0.0678,59.695171"
      id="path1076-4"
      inkscape:connector-curvature="0" />
   <path
@@ -606,7 +606,7 @@
      inkscape:connector-curvature="0" />
   <path
      style="fill:#434547;fill-opacity:1;stroke:#434547;stroke-width:1.13562906px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 381.40697,28.847476 -77.58083,0.06733"
+     d="m 381.40697,28.84748 -77.58083,0.06733"
      id="path1076-2-6"
      inkscape:connector-curvature="0" />
 </svg>

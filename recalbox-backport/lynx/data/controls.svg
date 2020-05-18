@@ -12,7 +12,7 @@
    version="1.1"
    id="svg61"
    sodipodi:docname="controls.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata65">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1015"
      id="namedview63"
      showgrid="false"
      inkscape:zoom="2.5173001"
      inkscape:cx="173.977"
      inkscape:cy="79.417765"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg61"
      fit-margin-top="0"
@@ -76,7 +76,7 @@
     </clipPath>
   </defs>
   <path
-     d="M 317.82845,180.101 H 84.483548 V 6.4775498 H 317.82845 Z"
+     d="M 317.82845,180.101 H 84.483548 V 6.4775497 H 317.82845 Z"
      id="path7"
      inkscape:connector-curvature="0"
      style="fill:#444141" />
@@ -443,7 +443,7 @@
     <polygon
        transform="matrix(3.0102752,0,0,3.0102752,759.91211,159.01318)"
        id="polygon5354"
-       points="15.92,14.833 15.92,22.212 21.141,22.212 21.141,20.85 17.543,20.85 17.543,14.833 "
+       points="21.141,22.212 21.141,20.85 17.543,20.85 17.543,14.833 15.92,14.833 15.92,22.212 "
        style="fill:#35495e;fill-opacity:1" />
   </g>
   <g
