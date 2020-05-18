@@ -11,3 +11,6 @@ Released under [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License 
 Screenshots:
 ![Screenshot1](screenshots/screenshot_1.png?raw=true "Screenshot1")
 ![Screenshot2](screenshots/screenshot_2.png?raw=true "Screenshot2")
+![Screenshot3](screenshots/screenshot_3.png?raw=true "Screenshot3")
+![Screenshot4](screenshots/screenshot_4.png?raw=true "Screenshot4")
+![Screenshot5](screenshots/screenshot_5.png?raw=true "Screenshot5")
