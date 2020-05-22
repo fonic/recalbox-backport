@@ -46,7 +46,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg104" />
+     inkscape:current-layer="svg104">
+    <inkscape:grid
+       type="xygrid"
+       id="grid917"
+       originx="0"
+       originy="0.00099316401" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"

@@ -1,5 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.999999 30.000001">
-  <g fill="#666" stroke="#4d4d4d">
-    <path stroke-width=".14208" d="M13.44948417 11.45937082H8.589117l-8.5393507 8.5406294h4.860083zM18.32050723 11.45937082h-4.860083l-8.53977694 8.5406294h4.86036716zM23.18797833 11.45937082h-4.86036717l-8.5393507 8.5406294h4.86008302zM28.0497663 11.45937082h-4.86008302l-8.53963486 8.5406294h4.86036717z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 29.999999 30.000001"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="icon_empty.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="7.8666662"
+     inkscape:cx="14.999999"
+     inkscape:cy="15.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid822" />
+  </sodipodi:namedview>
+  <g
+     fill="#666"
+     stroke="#4d4d4d"
+     id="g4">
+    <path
+       stroke-width=".14208"
+       d="M13.44948417 11.45937082H8.589117l-8.5393507 8.5406294h4.860083zM18.32050723 11.45937082h-4.860083l-8.53977694 8.5406294h4.86036716zM23.18797833 11.45937082h-4.86036717l-8.5393507 8.5406294h4.86008302zM28.0497663 11.45937082h-4.86008302l-8.53963486 8.5406294h4.86036717z"
+       id="path2" />
   </g>
 </svg>

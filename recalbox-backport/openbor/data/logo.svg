@@ -32,8 +32,8 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="471"
-   inkscape:window-height="442"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
    id="namedview517"
    showgrid="false"
    inkscape:zoom="0.59546305"
@@ -42,7 +42,11 @@
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="svg515" />
+   inkscape:current-layer="svg515"><inkscape:grid
+     type="xygrid"
+     id="grid1328"
+     originx="0.00055783278"
+     originy="3.6621094e-07" /></sodipodi:namedview>
 <g
    id="g494"
    transform="translate(5.5783278e-4)">

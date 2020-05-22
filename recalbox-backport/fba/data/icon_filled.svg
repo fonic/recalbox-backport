@@ -1,8 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" viewBox="-290 382 30 30">
-  <path fill="#FF5D24" d="M-263.7 395.5v-.3c-.2-7.1-6-12.8-13.2-12.8-7.3 0-13.2 5.9-13.2 13.2v16.1l5.1-3.1 4.2 3.1 3.8-2.9 4.1 2.9 4.1-3.1 4.9 3.3.2-16.4"/>
-  <circle cx="-279.5" cy="393.9" r="3.5" fill="#FFF"/>
-  <path fill="#FF4317" d="M-280.7 411.5l3.8-2.9 4.1 2.9 4.1-3.1 4.9 3.3v-16.4c-.1-2.8-1-5.3-2.5-7.4l-23.8 23.8 5.1-3.1 4.3 2.9"/>
-  <circle cx="-277.6" cy="393.9" r="1.5" fill="#324CEA"/>
-  <circle cx="-269.9" cy="393.9" r="3.5" fill="#FFF"/>
-  <circle cx="-268" cy="393.9" r="1.5" fill="#324CEA"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="-290 382 30 30"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="icon_filled.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="471"
+     inkscape:window-height="442"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14">
+    <inkscape:grid
+       type="xygrid"
+       id="grid22" />
+  </sodipodi:namedview>
+  <path
+     fill="#FF5D24"
+     d="M-263.7 395.5v-.3c-.2-7.1-6-12.8-13.2-12.8-7.3 0-13.2 5.9-13.2 13.2v16.1l5.1-3.1 4.2 3.1 3.8-2.9 4.1 2.9 4.1-3.1 4.9 3.3.2-16.4"
+     id="path2" />
+  <circle
+     cx="-279.5"
+     cy="393.9"
+     r="3.5"
+     fill="#FFF"
+     id="circle4" />
+  <path
+     fill="#FF4317"
+     d="M-280.7 411.5l3.8-2.9 4.1 2.9 4.1-3.1 4.9 3.3v-16.4c-.1-2.8-1-5.3-2.5-7.4l-23.8 23.8 5.1-3.1 4.3 2.9"
+     id="path6" />
+  <circle
+     cx="-277.6"
+     cy="393.9"
+     r="1.5"
+     fill="#324CEA"
+     id="circle8" />
+  <circle
+     cx="-269.9"
+     cy="393.9"
+     r="3.5"
+     fill="#FFF"
+     id="circle10" />
+  <circle
+     cx="-268"
+     cy="393.9"
+     r="1.5"
+     fill="#324CEA"
+     id="circle12" />
 </svg>

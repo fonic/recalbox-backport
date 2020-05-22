@@ -48,7 +48,13 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid947"
+       originx="0"
+       originy="-2.8320312e-07" />
+  </sodipodi:namedview>
   <defs
      id="defs5">
     <clipPath

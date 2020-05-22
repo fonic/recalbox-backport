@@ -48,7 +48,13 @@
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg99" />
+     inkscape:current-layer="svg99">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1010"
+       originx="4.5103523e-06"
+       originy="4.2526665e-06" />
+  </sodipodi:namedview>
   <defs
      id="defs23">
     <clipPath

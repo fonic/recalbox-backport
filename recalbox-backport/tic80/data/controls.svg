@@ -32,8 +32,8 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="471"
-   inkscape:window-height="442"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
    id="namedview423"
    showgrid="false"
    inkscape:zoom="0.9686424"
@@ -42,7 +42,11 @@
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Capa_1" />
+   inkscape:current-layer="Capa_1"><inkscape:grid
+     type="xygrid"
+     id="grid1234"
+     originx="0"
+     originy="1.2207031e-06" /></sodipodi:namedview>
 <g
    id="g268">
 	<path

@@ -46,7 +46,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg131" />
+     inkscape:current-layer="svg131">
+    <inkscape:grid
+       type="xygrid"
+       id="grid944"
+       originx="0.0011877078"
+       originy="7.3242189e-07" />
+  </sodipodi:namedview>
   <radialGradient
      id="a"
      cx="-90.552002"

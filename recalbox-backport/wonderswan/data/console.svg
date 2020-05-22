@@ -33,8 +33,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="471"
-     inkscape:window-height="442"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
      id="namedview39"
      showgrid="false"
      inkscape:zoom="0.6775"
@@ -43,7 +43,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg37" />
+     inkscape:current-layer="svg37">
+    <inkscape:grid
+       type="xygrid"
+       id="grid848"
+       originx="4.501223e-12"
+       originy="5.9157422e-06" />
+  </sodipodi:namedview>
   <defs
      id="defs5">
     <clipPath

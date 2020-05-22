@@ -1,1 +1,85 @@
-<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><style>.st0{fill:#b2662d}.st3{fill:#d39439}.st4{fill:#f4b056}.st5{fill:#ffd67b}</style><path class="st0" d="M7.6 0H4.7C2.3 1.1.6 4.7.6 9v9.3h11.2V9c-.1-4.3-1.8-7.9-4.2-9"/><path d="M7.6 0H6.2v8.1h5.6C11.5 4.2 9.8 1 7.6 0" fill="#cc7940"/><path d="M6.9 0c1 2.6 1.2 8.1 1.2 8.1h2.5C9.9 2 7.3.3 6.9 0" fill="#e89054"/><path class="st0" d="M1.2 10.7h9.7v17.2H1.2V10.7z"/><path class="st3" d="M0 9h12.2v17.2H0V9zM0 27.2h12.2V30H0v-2.8z"/><path class="st4" d="M6.1 27.2h6.1V30H6.1v-2.8zM12.1 26.2H6V9.1h6.1v17.1zM3.2 27.2h1.6V30H3.2v-2.8zM4.7 26.2H3.2V9.1h1.5v17.1z"/><g><path class="st5" d="M8 27.2h2.7V30H8v-2.8zM10.4 26.2H7.9V9.1h2.5v17.1z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   viewBox="0 0 30 30"
+   version="1.1"
+   sodipodi:docname="icon_filled.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Capa_1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid832" />
+  </sodipodi:namedview>
+  <style
+     id="style2">.st0{fill:#b2662d}.st3{fill:#d39439}.st4{fill:#f4b056}.st5{fill:#ffd67b}</style>
+  <path
+     class="st0"
+     d="M7.6 0H4.7C2.3 1.1.6 4.7.6 9v9.3h11.2V9c-.1-4.3-1.8-7.9-4.2-9"
+     id="path4" />
+  <path
+     d="M7.6 0H6.2v8.1h5.6C11.5 4.2 9.8 1 7.6 0"
+     fill="#cc7940"
+     id="path6" />
+  <path
+     d="M6.9 0c1 2.6 1.2 8.1 1.2 8.1h2.5C9.9 2 7.3.3 6.9 0"
+     fill="#e89054"
+     id="path8" />
+  <path
+     class="st0"
+     d="M1.2 10.7h9.7v17.2H1.2V10.7z"
+     id="path10" />
+  <path
+     class="st3"
+     d="M0 9h12.2v17.2H0V9zM0 27.2h12.2V30H0v-2.8z"
+     id="path12" />
+  <path
+     class="st4"
+     d="M6.1 27.2h6.1V30H6.1v-2.8zM12.1 26.2H6V9.1h6.1v17.1zM3.2 27.2h1.6V30H3.2v-2.8zM4.7 26.2H3.2V9.1h1.5v17.1z"
+     id="path14" />
+  <g
+     id="g18">
+    <path
+       class="st5"
+       d="M8 27.2h2.7V30H8v-2.8zM10.4 26.2H7.9V9.1h2.5v17.1z"
+       id="path16" />
+  </g>
+</svg>

@@ -46,7 +46,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="svg10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid18"
+       originx="0.0003826842"
+       originy="-0.00045660305" />
+  </sodipodi:namedview>
   <g
      id="g8"
      style="fill:#3c3f8b"

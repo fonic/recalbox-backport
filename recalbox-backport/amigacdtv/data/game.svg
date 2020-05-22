@@ -46,7 +46,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg281" />
+     inkscape:current-layer="svg281">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1094"
+       originx="0"
+       originy="8.5449219e-07" />
+  </sodipodi:namedview>
   <path
      d="M 92.348,0 C 41.427,0 0,41.427 0,92.348 c 0,50.921 41.427,92.348 92.348,92.348 50.921,0 92.349,-41.427 92.349,-92.348 C 184.697,41.427 143.269,0 92.348,0 Z m 0,126.586 c -18.879,0 -34.238,-15.359 -34.238,-34.238 0,-18.879 15.359,-34.238 34.238,-34.238 18.879,0 34.238,15.359 34.238,34.238 0,18.879 -15.359,34.238 -34.238,34.238 z"
      id="path2"

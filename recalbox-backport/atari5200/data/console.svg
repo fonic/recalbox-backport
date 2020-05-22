@@ -36,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="471"
-     inkscape:window-height="442"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
      id="namedview138"
      showgrid="false"
      inkscape:zoom="0.45310151"
@@ -46,7 +46,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Capa_1" />
+     inkscape:current-layer="Capa_1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid949"
+       originx="0"
+       originy="6.1035157e-06" />
+  </sodipodi:namedview>
   <style
      id="style2">.st2{fill:#3c3c3c}.st3{fill:#1a1618}.st4{fill:#262627}.st6{fill:#0b0808}.st7{fill:#040404}.st10{fill:#661919}.st12{fill:#11100f}.st13{fill:#afafaf;stroke:#939093;stroke-width:.2864;stroke-miterlimit:10}</style>
   <path

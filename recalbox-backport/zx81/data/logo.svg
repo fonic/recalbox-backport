@@ -36,8 +36,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="471"
-     inkscape:window-height="442"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="0.6775"
@@ -46,7 +46,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid821"
+       originx="0"
+       originy="5.6494143e-07" />
+  </sodipodi:namedview>
   <path
      d="M 0.5616779,51.943297 V 44.267363 H 60.664189 V 35.507768 H 0.5616779 L 0.1835873,11.869663 H 68.468138 v 7.655094 H 8.3646342 l 0.3780906,8.329902 H 68.844244 V 51.945282 H 0.5616779 v -0.002 z m 73.2275151,0 V 12.020503 h 8.181046 v 39.922794 z m 12.572256,0 V 12.020503 H 154.646 v 39.922794 h -8.18105 V 19.674604 H 94.541504 v 32.27167 l -8.180055,-0.003 z m 72.651941,0 V 12.020503 h 68.33417 v 7.655094 h -60.10152 v 24.592758 h 60.10152 v 7.679904 h -68.33417 v -0.005 z m 73.77828,0 V 0 h 8.18303 v 51.945282 h -8.18303 v -0.002 z m 85.75114,0 V 12.020503 h 8.23166 v 39.922794 z m 13.17562,0 V 12.020503 H 400 v 7.655094 h -60.10052 v 32.272662 h -8.18105 v -0.005 z M 245.34011,12.020503 v 7.655094 h 60.10152 v 8.756617 h -60.10152 v 23.513068 h 68.33516 V 12.020503 Z m 60.10152,32.247852 H 253.56978 V 35.50876 h 51.87185 z M 73.789193,7.6799032 V 0 h 8.181046 v 7.6799032 z m 244.753617,0 V 0 h 8.23166 v 7.6799032 z"
      id="path2"

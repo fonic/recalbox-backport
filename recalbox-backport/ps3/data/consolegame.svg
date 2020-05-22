@@ -47,7 +47,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg220" />
+     inkscape:current-layer="svg220">
+    <inkscape:grid
+       type="xygrid"
+       id="grid228"
+       originx="0"
+       originy="-7.4218748e-05" />
+  </sodipodi:namedview>
   <filter
      height="2.21"
      id="c"

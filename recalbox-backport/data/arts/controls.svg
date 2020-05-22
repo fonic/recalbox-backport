@@ -37,10 +37,16 @@
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     borderlayer="false" />
+     borderlayer="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid832"
+       originx="-0.10079639"
+       originy="-0.099404307" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4178">
     <rdf:RDF>
