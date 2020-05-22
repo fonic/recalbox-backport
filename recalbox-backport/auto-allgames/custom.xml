@@ -3,13 +3,13 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Let's see what you got!</text>
+			<text></text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Every game of every system will be listed here.</text>
+			<text>See your whole collection in all its glory!</text>
 		</text>
 		<text name="info3" extra="true">
-			<text></text>
+			<text>All games of all systems will be listed here.</text>
 		</text>
 		<text name="info4" extra="true">
 			<text></text>

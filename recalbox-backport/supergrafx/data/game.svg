@@ -40,10 +40,16 @@
      inkscape:zoom="1.18"
      inkscape:cx="64.801369"
      inkscape:cy="100"
-     inkscape:window-x="2726"
-     inkscape:window-y="449"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg21" />
+     inkscape:current-layer="svg21">
+    <inkscape:grid
+       type="xygrid"
+       id="grid27"
+       originx="4.000835e-12"
+       originy="0" />
+  </sodipodi:namedview>
   <defs
      id="defs5">
     <clipPath

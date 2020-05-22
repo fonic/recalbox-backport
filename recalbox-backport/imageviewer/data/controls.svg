@@ -14,8 +14,8 @@
    viewBox="0 0 148.9744 171.5856"
    version="1.1"
    id="svg4511"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="controller-only.svg">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="controls.svg">
   <defs
      id="defs4505" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="-357.04503"
-     inkscape:cy="195.03322"
+     inkscape:cy="195.0332"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,10 +36,16 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="1015"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid822"
+       originx="-6.5395462e-08"
+       originy="-4.8997925e-06" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4508">
     <rdf:RDF>
@@ -48,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -37,7 +37,7 @@
    showgrid="false"
    inkscape:window-maximized="1"
    inkscape:window-y="0"
-   inkscape:window-x="0"
+   inkscape:window-x="1920"
    inkscape:window-height="1015"
    inkscape:window-width="1920"
    fit-margin-bottom="0"
@@ -46,7 +46,11 @@
    inkscape:document-units="mm"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0">
-	</sodipodi:namedview>
+	<inkscape:grid
+   type="xygrid"
+   id="grid825"
+   originx="-0.0542772"
+   originy="-0.00028103922" /></sodipodi:namedview>
 <g
    id="layer1"
    transform="translate(-28.754584,-28.850675)"

@@ -40,7 +40,7 @@
    showgrid="false"
    inkscape:window-maximized="1"
    inkscape:window-y="0"
-   inkscape:window-x="0"
+   inkscape:window-x="1920"
    inkscape:window-height="1015"
    inkscape:window-width="1920"
    fit-margin-bottom="0"
@@ -48,7 +48,11 @@
    inkscape:current-layer="svg48"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0">
-	</sodipodi:namedview>
+	<inkscape:grid
+   type="xygrid"
+   id="grid823"
+   originx="0.00055000186"
+   originy="0.00055363776" /></sodipodi:namedview>
 <rect
    id="rect864"
    x="0.42054999"

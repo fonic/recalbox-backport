@@ -34,8 +34,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="471"
+     inkscape:window-height="442"
      id="namedview82"
      showgrid="false"
      inkscape:zoom="0.542"
@@ -44,7 +44,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg80" />
+     inkscape:current-layer="svg80">
+    <inkscape:grid
+       type="xygrid"
+       id="grid86"
+       originx="0"
+       originy="-1.3964844e-06" />
+  </sodipodi:namedview>
   <defs
      id="defs8">
     <clipPath

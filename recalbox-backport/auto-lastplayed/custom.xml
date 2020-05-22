@@ -3,13 +3,13 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Want to pick your game up where you left off?</text>
+			<text></text>
 		</text>
 		<text name="info2" extra="true">
-			<text>All recently played games will be listed here.</text>
+			<text>Want to pick your game up where you left off?</text>
 		</text>
 		<text name="info3" extra="true">
-			<text></text>
+			<text>All recently played games will be listed here.</text>
 		</text>
 		<text name="info4" extra="true">
 			<text></text>

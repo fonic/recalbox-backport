@@ -35,8 +35,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="471"
+     inkscape:window-height="442"
      id="namedview280"
      showgrid="false"
      inkscape:zoom="0.42337827"
@@ -45,7 +45,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg278" />
+     inkscape:current-layer="svg278">
+    <inkscape:grid
+       type="xygrid"
+       id="grid286"
+       originx="-2.7026366e-09"
+       originy="2.7339172e-05" />
+  </sodipodi:namedview>
   <path
      stroke-miterlimit="10"
      d="m 392.82702,45.9979 c 0,2.5091 -2.03402,4.5432 -4.54324,4.5432 H 11.716381 c -2.5092238,0 -4.5432401,-2.034 -4.5432401,-4.5432 V 5.5551 c 0,-2.5091 2.033856,-4.5433 4.5432401,-4.5433 H 388.28378 c 2.50906,0 4.54324,2.0341 4.54324,4.5433 z"

@@ -10,7 +10,7 @@
    viewBox="0 0 29.999999 29.999999"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="icon_filled.svg"
    inkscape:export-filename="C:\Users\xizor\Desktop\recalbox-multi-v3.1\lynx\data\icon_filled.png"
    inkscape:export-xdpi="168.46001"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,16 +39,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1015"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="7.8666672"
      inkscape:cx="14.999999"
      inkscape:cy="14.999999"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid816" />
+  </sodipodi:namedview>
   <path
      d="m 12.759488,18.023688 -3.5599301,-1.384853 -9.14979148,3.317948 9.20810768,0 M 20.32172,14.400386 16.331307,12.565994 13.871081,13.566983 0.65482053,7.0635716 l 10.86983647,0 14.472417,7.3368144"
      id="path4"

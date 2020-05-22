@@ -10,7 +10,7 @@
    viewBox="0 0 29.999999 29.999999"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="icon_empty.svg"
    inkscape:export-filename="C:\Users\xizor\Desktop\recalbox-multi-v3.1\lynx\data\icon_empty.png"
    inkscape:export-xdpi="168.00002"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,16 +39,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1015"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="7.8666672"
      inkscape:cx="14.999999"
      inkscape:cy="14.999999"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid814" />
+  </sodipodi:namedview>
   <g
      id="g4"
      transform="matrix(1.0714286,0,0,1.0714286,-0.00355475,-1.428572)"

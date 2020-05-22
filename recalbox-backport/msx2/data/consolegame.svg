@@ -43,10 +43,16 @@
      inkscape:zoom="0.56437289"
      inkscape:cx="240.08949"
      inkscape:cy="118.711"
-     inkscape:window-x="2726"
-     inkscape:window-y="449"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg196" />
+     inkscape:current-layer="svg196">
+    <inkscape:grid
+       type="xygrid"
+       id="grid204"
+       originx="0"
+       originy="2.9296875e-06" />
+  </sodipodi:namedview>
   <path
      d="M 346.87,237.422 H 20.739 c -5.008,0 -9.105,-4.097 -9.105,-9.105 V 104.39 c 0,-5.008 4.097,-9.105 9.105,-9.105 H 346.87 c 5.008,0 9.105,4.097 9.105,9.105 v 123.927 c 0,5.008 -4.097,9.105 -9.105,9.105 z"
      id="path2"

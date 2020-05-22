@@ -46,7 +46,11 @@
    inkscape:document-units="mm"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0.0">
-	</sodipodi:namedview>
+	<inkscape:grid
+   type="xygrid"
+   id="grid825"
+   originx="-0.0522772"
+   originy="-0.00028103922" /></sodipodi:namedview>
 <g
    id="layer1"
    transform="translate(-28.752584,-28.850675)"

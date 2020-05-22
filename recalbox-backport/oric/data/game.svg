@@ -31,8 +31,8 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="640"
-   inkscape:window-height="480"
+   inkscape:window-width="471"
+   inkscape:window-height="442"
    id="namedview419"
    showgrid="false"
    inkscape:zoom="1.4338852"
@@ -41,7 +41,11 @@
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Calque_1" />
+   inkscape:current-layer="Calque_1"><inkscape:grid
+     type="xygrid"
+     id="grid425"
+     originx="0.00041334355"
+     originy="-2.1972656e-06" /></sodipodi:namedview>
 <g
    id="g416"
    transform="translate(4.1334353e-4)">

@@ -43,10 +43,16 @@
      inkscape:zoom="0.51103727"
      inkscape:cx="265.14801"
      inkscape:cy="49.176502"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-y="186"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg16">
+    <inkscape:grid
+       type="xygrid"
+       id="grid24"
+       originx="0.0010021667"
+       originy="-0.069996218" />
+  </sodipodi:namedview>
   <ellipse
      cx="-211.17599"
      cy="440.23102"

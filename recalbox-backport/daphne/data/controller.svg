@@ -46,7 +46,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg30" />
+     inkscape:current-layer="svg30">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843"
+       originx="-0.099999995"
+       originy="0.099994661" />
+  </sodipodi:namedview>
   <circle
      transform="rotate(-45.001)"
      cx="-58.340256"

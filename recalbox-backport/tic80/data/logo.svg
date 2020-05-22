@@ -46,7 +46,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid16"
+       originx="0"
+       originy="-1.5258789e-06" />
+  </sodipodi:namedview>
   <text
      font-size="1"
      id="text2"

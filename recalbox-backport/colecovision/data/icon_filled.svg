@@ -1,14 +1,100 @@
-<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" viewBox="-290 382 30 30">
-  <path fill="#A02020" d="M-269.2 399.2v1.3h.8v.7h1.4v2.8h-.8v2.2h-5.5v-1.4h-1.4v-.8h-5.6v.8h-1.4v1.4h-5.6V404h-.7v-2.8h1.4v-.7h.7v-.6h-.7v-.7h-.7v-.7h-.7v-.7h-.6v-.7h-.8v-3.6h.8v-.7h.6v-.7h1.4v-.7h.7v-.7h1.4v-2.1h.7v-.6h1.4v-.8h.7v-.6h1.4v-.8h5.6v.8h1.4v.6h.7v.8h1.4v.6h.6v2.1h1.4v.7h.8v.7h1.4v.7h.6v.7h.8v3.6h-.8v.7h-.6v.7h-.8v.7"/>
-  <path fill="#C0C080" d="M-283.8 388.6v-.6h.7v2.7h-1.4v-2.1m2.8 19v-1.4h-6.2v.6h-1.5v.6h-.6v.8h6.9v-.6"/>
-  <path fill="#E0E0E0" d="M-277.5 389.3h.6v-.6h.8v-.7h1.4v.6h.7v1.5h-.7v1.4h2v-2.8h.8v5.6h-1.4v-.8h-.8v-.6h-6.8v.6h-.8v.8h-1.4v-5.6h.8v2.8h2v-1.4h-.8v-1.5h.8v-.6h1.4v.7h.7v.6"/>
-  <path fill="#A02020" d="M-278.2 391.5h1.4v.6h-1.4zm-.7-1.5h.8v.9h-.8zm2.1 0h.8v.9h-.8z"/>
-  <path fill="#C0C080" d="M-271.2 388.6v-.6h-.7v2.7h1.3v-2.1"/>
-  <path fill="#E0E0E0" d="M-277.5 393.7h3.4v.6h.8v.6h.6v.8h-1.4v.6h-6.8v-.6h-1.4v-.8h.6v-.6h.8v-.6"/>
-  <path fill="#C0C080" d="M-284.5 395.7h.8v.6h1.4v.8h-2.2v-.7h-.7v-.7h-.7v-1.4h.8v.6h.6"/>
-  <path fill="#C0C080" d="M-282.3 397.1h.6v-.8h1.4v.8h2.2v1.4h-.8v.6h.8v2.1h-3v-.7h-4.8v-.6h3.4v-.8h1.4v-.6h-.6v-.7h-.6"/>
-  <path fill="#A02020" d="M-281.1 397.7h.8v.8h-.8zm0 1.4h.8v.8h-.8z"/>
-  <path fill="#C0C080" d="M-273.3 407.6v-1.4h6.2v.6h1.5v.6h.6v.8h-6.9v-.6m-5.6-6.4h.6v.7h3.6v.7h-.7v.8h-6.3v-.8h-1.4v-.7h3.6v-.7m7.5-5.5h-.7v.6h-1.4v.8h2.1v-.7h.8v-.7h.6v-1.4h-.7v.6h-.7"/>
-  <path fill="#C0C080" d="M-272.7 397.1h-.6v-.8h-1.4v.8h-2.2v1.4h.8v.6h-.8v2.1h2.9v-.7h4.8v-.6h-3.4v-.8h-1.4v-.6h.7v-.7h.6"/>
-  <path fill="#A02020" d="M-274.7 397.7h.8v.8h-.8zm0 1.4h.8v.8h-.8z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="-290 382 30 30"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="icon_filled.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg26">
+    <inkscape:grid
+       type="xygrid"
+       id="grid839" />
+  </sodipodi:namedview>
+  <path
+     fill="#A02020"
+     d="M-269.2 399.2v1.3h.8v.7h1.4v2.8h-.8v2.2h-5.5v-1.4h-1.4v-.8h-5.6v.8h-1.4v1.4h-5.6V404h-.7v-2.8h1.4v-.7h.7v-.6h-.7v-.7h-.7v-.7h-.7v-.7h-.6v-.7h-.8v-3.6h.8v-.7h.6v-.7h1.4v-.7h.7v-.7h1.4v-2.1h.7v-.6h1.4v-.8h.7v-.6h1.4v-.8h5.6v.8h1.4v.6h.7v.8h1.4v.6h.6v2.1h1.4v.7h.8v.7h1.4v.7h.6v.7h.8v3.6h-.8v.7h-.6v.7h-.8v.7"
+     id="path2" />
+  <path
+     fill="#C0C080"
+     d="M-283.8 388.6v-.6h.7v2.7h-1.4v-2.1m2.8 19v-1.4h-6.2v.6h-1.5v.6h-.6v.8h6.9v-.6"
+     id="path4" />
+  <path
+     fill="#E0E0E0"
+     d="M-277.5 389.3h.6v-.6h.8v-.7h1.4v.6h.7v1.5h-.7v1.4h2v-2.8h.8v5.6h-1.4v-.8h-.8v-.6h-6.8v.6h-.8v.8h-1.4v-5.6h.8v2.8h2v-1.4h-.8v-1.5h.8v-.6h1.4v.7h.7v.6"
+     id="path6" />
+  <path
+     fill="#A02020"
+     d="M-278.2 391.5h1.4v.6h-1.4zm-.7-1.5h.8v.9h-.8zm2.1 0h.8v.9h-.8z"
+     id="path8" />
+  <path
+     fill="#C0C080"
+     d="M-271.2 388.6v-.6h-.7v2.7h1.3v-2.1"
+     id="path10" />
+  <path
+     fill="#E0E0E0"
+     d="M-277.5 393.7h3.4v.6h.8v.6h.6v.8h-1.4v.6h-6.8v-.6h-1.4v-.8h.6v-.6h.8v-.6"
+     id="path12" />
+  <path
+     fill="#C0C080"
+     d="M-284.5 395.7h.8v.6h1.4v.8h-2.2v-.7h-.7v-.7h-.7v-1.4h.8v.6h.6"
+     id="path14" />
+  <path
+     fill="#C0C080"
+     d="M-282.3 397.1h.6v-.8h1.4v.8h2.2v1.4h-.8v.6h.8v2.1h-3v-.7h-4.8v-.6h3.4v-.8h1.4v-.6h-.6v-.7h-.6"
+     id="path16" />
+  <path
+     fill="#A02020"
+     d="M-281.1 397.7h.8v.8h-.8zm0 1.4h.8v.8h-.8z"
+     id="path18" />
+  <path
+     fill="#C0C080"
+     d="M-273.3 407.6v-1.4h6.2v.6h1.5v.6h.6v.8h-6.9v-.6m-5.6-6.4h.6v.7h3.6v.7h-.7v.8h-6.3v-.8h-1.4v-.7h3.6v-.7m7.5-5.5h-.7v.6h-1.4v.8h2.1v-.7h.8v-.7h.6v-1.4h-.7v.6h-.7"
+     id="path20" />
+  <path
+     fill="#C0C080"
+     d="M-272.7 397.1h-.6v-.8h-1.4v.8h-2.2v1.4h.8v.6h-.8v2.1h2.9v-.7h4.8v-.6h-3.4v-.8h-1.4v-.6h.7v-.7h.6"
+     id="path22" />
+  <path
+     fill="#A02020"
+     d="M-274.7 397.7h.8v.8h-.8zm0 1.4h.8v.8h-.8z"
+     id="path24" />
 </svg>

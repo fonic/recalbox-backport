@@ -1,1 +1,112 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M18.824 15.753L6.943 27.655l4.851-4.86 7.03-7.042c-1.041-1.041.368-2.467.825-2.889l.709.718c.987.987-.52 1.839-.52 1.839l2.171 2.171s1.552-3.382-.296-5.23l-1.373-1.373 2.53-2.521a1.867 1.867 0 0 0 1.947-3.086 1.866 1.866 0 0 0-3.104 1.983l-2.521 2.53a96.051 96.051 0 0 0-1.382-1.382c-1.839-1.848-5.23-.305-5.23-.305l2.198 2.18s.852-1.516 1.848-.529l.709.718c-.413.458-1.839 1.866-2.889.816L3.089 22.795l-.552.554L5.5 20.375 2.537 23.35a15.077 15.077 0 0 0 4.406 4.305l11.881-11.902z" fill="#fff"/><path d="M8.276 30C4.138 30 0 24.383 0 15V0h1.034a4.138 4.138 0 0 0 4.138 4.138h14.483A4.138 4.138 0 0 0 23.793 0h1.034v15c0 9.383-4.138 15-8.276 15H8.276z" fill="#e4b02f"/><path d="M12.414 22.759l-4.138-5.514 4.138-2.762 4.138 2.762-4.138 5.514z" fill="#d27d33"/><circle cx="7.241" cy="13.448" r="6.207" fill="#d27d33"/><circle cx="17.586" cy="13.448" r="6.207" fill="#d27d33"/><circle cx="7.241" cy="12.414" r="6.207" fill="#fff"/><circle cx="7.241" cy="12.414" r="4.138" fill="#d27d33"/><circle cx="7.241" cy="12.414" r="2.069" fill="#fff"/><circle cx="17.586" cy="12.414" r="6.207" fill="#fff"/><circle cx="17.586" cy="12.414" r="4.138" fill="#d27d33"/><circle cx="17.586" cy="12.414" r="2.069" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="icon_filled.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="471"
+     inkscape:window-height="442"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg24">
+    <inkscape:grid
+       type="xygrid"
+       id="grid32" />
+  </sodipodi:namedview>
+  <path
+     d="M18.824 15.753L6.943 27.655l4.851-4.86 7.03-7.042c-1.041-1.041.368-2.467.825-2.889l.709.718c.987.987-.52 1.839-.52 1.839l2.171 2.171s1.552-3.382-.296-5.23l-1.373-1.373 2.53-2.521a1.867 1.867 0 0 0 1.947-3.086 1.866 1.866 0 0 0-3.104 1.983l-2.521 2.53a96.051 96.051 0 0 0-1.382-1.382c-1.839-1.848-5.23-.305-5.23-.305l2.198 2.18s.852-1.516 1.848-.529l.709.718c-.413.458-1.839 1.866-2.889.816L3.089 22.795l-.552.554L5.5 20.375 2.537 23.35a15.077 15.077 0 0 0 4.406 4.305l11.881-11.902z"
+     fill="#fff"
+     id="path2" />
+  <path
+     d="M8.276 30C4.138 30 0 24.383 0 15V0h1.034a4.138 4.138 0 0 0 4.138 4.138h14.483A4.138 4.138 0 0 0 23.793 0h1.034v15c0 9.383-4.138 15-8.276 15H8.276z"
+     fill="#e4b02f"
+     id="path4" />
+  <path
+     d="M12.414 22.759l-4.138-5.514 4.138-2.762 4.138 2.762-4.138 5.514z"
+     fill="#d27d33"
+     id="path6" />
+  <circle
+     cx="7.241"
+     cy="13.448"
+     r="6.207"
+     fill="#d27d33"
+     id="circle8" />
+  <circle
+     cx="17.586"
+     cy="13.448"
+     r="6.207"
+     fill="#d27d33"
+     id="circle10" />
+  <circle
+     cx="7.241"
+     cy="12.414"
+     r="6.207"
+     fill="#fff"
+     id="circle12" />
+  <circle
+     cx="7.241"
+     cy="12.414"
+     r="4.138"
+     fill="#d27d33"
+     id="circle14" />
+  <circle
+     cx="7.241"
+     cy="12.414"
+     r="2.069"
+     fill="#fff"
+     id="circle16" />
+  <circle
+     cx="17.586"
+     cy="12.414"
+     r="6.207"
+     fill="#fff"
+     id="circle18" />
+  <circle
+     cx="17.586"
+     cy="12.414"
+     r="4.138"
+     fill="#d27d33"
+     id="circle20" />
+  <circle
+     cx="17.586"
+     cy="12.414"
+     r="2.069"
+     fill="#fff"
+     id="circle22" />
+</svg>

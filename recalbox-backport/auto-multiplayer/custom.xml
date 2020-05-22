@@ -3,13 +3,16 @@
 
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Find all your multiplayer games in a single system.</text>
+			<text></text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Add all the roms you want, scrape them and</text>
+			<text>Enjoy your games with family and friends!</text>
 		</text>
 		<text name="info3" extra="true">
-			<text>they'll show up here. Enjoy with family and friends!</text>
+			<text>All multiplayer games will be listed here.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text></text>
 		</text>
 	</view>
 

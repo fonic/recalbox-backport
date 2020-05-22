@@ -37,8 +37,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="471"
+     inkscape:window-height="442"
      id="namedview885"
      showgrid="false"
      inkscape:zoom="0.61064228"
@@ -47,7 +47,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg883" />
+     inkscape:current-layer="svg883">
+    <inkscape:grid
+       type="xygrid"
+       id="grid891"
+       originx="1.3950893e-07"
+       originy="-0.00098706058" />
+  </sodipodi:namedview>
   <linearGradient
      id="a"
      gradientUnits="userSpaceOnUse"

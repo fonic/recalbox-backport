@@ -6,7 +6,7 @@ Based on *Recalbox* themes *recalbox-next* and *recalbox-multi* (https://gitlab.
 
 Released under [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 License CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png).
 
-*Last updated 05/18/20, tested with EmulationStation 2.10.0.*
+*Last updated 05/22/20, tested with EmulationStation 2.10.0.*
 
 Screenshots:
 ![Screenshot1](screenshots/screenshot_1.png?raw=true "Screenshot1")
@@ -14,3 +14,5 @@ Screenshots:
 ![Screenshot3](screenshots/screenshot_3.png?raw=true "Screenshot3")
 ![Screenshot4](screenshots/screenshot_4.png?raw=true "Screenshot4")
 ![Screenshot5](screenshots/screenshot_5.png?raw=true "Screenshot5")
+![Screenshot6](screenshots/screenshot_6.png?raw=true "Screenshot6")
+![Screenshot7](screenshots/screenshot_7.png?raw=true "Screenshot7")
