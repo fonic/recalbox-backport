@@ -20,6 +20,9 @@
 			<path>./data/logo.svg</path>
 		</image> 
 		
+		<image name="console" extra="true">
+			<path>./data/console.svg</path>
+		</image>
 	</view>
 	
 	<view name="system">
@@ -34,4 +37,10 @@
 		</image>
 	</view>
 	
+	<view name="detailed">
+		<image name="controls" extra="true">
+			<path>./data/controls.svg</path>
+		</image>
+	</view>
+			
 </theme>
