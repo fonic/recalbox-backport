@@ -1,6 +1,6 @@
+<?xml version="1.0"?>
 <theme>
 	<formatVersion>4</formatVersion>
-
 	<view name="system">
 		<text name="info1" extra="true">
 			<text>Manufacturer : Nintendo</text>
@@ -15,16 +15,18 @@
 			<text>Best-selling game : Mario Kart 8 Deluxe</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>CPU : 6ARM 4 Cortex-A57 + ARM 4 Cortex-A53 cores @ 1.02 GHz[</text>
+			<text>CPU : 4x ARM Cortex-A57 + 4x ARM Cortex-A53 @ 1.02 GHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>GPU : Nvidia GM20B Maxwell-based @ 307.2-768 MHz</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>RAM : 4 GB LPDDR4 SDRAM @ 1600 MHz</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Sound  : Linear PCM 2.0 ch stereo speakers (with pseudo-surround)</text>
+			<text>Sound : Linear PCM 2.0 ch stereo speakers (with pseudo-surround)</text>
 		</text>
 	</view>
-
 	<view name="system, basic, detailed">
 		<image name="band1" extra="true">
 			<color>E0E0E1</color>
