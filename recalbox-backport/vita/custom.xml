@@ -1,6 +1,6 @@
+<?xml version="1.0"?>
 <theme>
 	<formatVersion>4</formatVersion>
-
 	<view name="system">
 		<text name="info1" extra="true">
 			<text>Manufacturer : Sony</text>
@@ -17,6 +17,9 @@
 		<text name="info5" extra="true">
 			<text>CPU :	Quad-core ARM Cortex-A9 MPCore 20-333 MHz MIPS R4000</text>
 		</text>
+		<text name="info6" extra="true">
+			<text>GPU : Quad-core PowerVR SGX543MP4+</text>
+		</text>
 		<text name="info7" extra="true">
 			<text>RAM : 512 MB RAM, 128 MB VRAM</text>
 		</text>
@@ -24,7 +27,6 @@
 			<text>Sound  : Linear PCM 2.0 ch stereo speakers (with pseudo-surround)</text>
 		</text>
 	</view>
-
 	<view name="system, basic, detailed">
 		<image name="band1" extra="true">
 			<color>E0E0E1</color>
