@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Sony</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 2011</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 70 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Best-selling game : Uncharted: Golden Abyss </text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU :	Quad-core ARM Cortex-A9 MPCore 20-333 MHz MIPS R4000</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>GPU : Quad-core PowerVR SGX543MP4+</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>RAM : 512 MB RAM, 128 MB VRAM</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound  : Linear PCM 2.0 ch stereo speakers (with pseudo-surround)</text>
+		</text>
+	</view>
+	<view name="system, basic, detailed">
+		<image name="band1" extra="true">
+			<color>E0E0E1</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>929497</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>4C4C4C</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>221D1F</color>
+		</image>
+	</view>
+</theme>
